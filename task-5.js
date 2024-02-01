@@ -19,7 +19,3 @@ for (let item in myObject) {
       typeof myObject[item]
   );
 }
-// key: name | type:  string
-// key: age | type:  number
-// key: city | type:  string
-// key: isStudent | type:  boolean
